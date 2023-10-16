@@ -1,0 +1,59 @@
+html, body 
+{
+  margin: 0;
+  padding: 0;
+}
+
+canvas 
+{
+  display: block;
+}
+
+#main_text
+{
+  font-size: 16px;
+  font-family: 'Arial';
+  color: white;
+}
+
+#attention_text
+{
+  font-size: 16px;
+  font-family: 'Arial';
+  color: red;
+}
+
+#advice1_text
+{
+  font-size: 12px;
+  font-family: 'Arial';
+  color: white;
+}
+
+#advice2_text
+{
+  font-size: 12px;
+  font-family: 'Arial';
+  color: white;
+}
+
+#advice3_text
+{
+  font-size: 12px;
+  font-family: 'Arial';
+  color: white;
+}
+
+#advice4_text
+{
+  font-size: 12px;
+  font-family: 'Arial';
+  color: white;
+}
+
+#input
+{
+  font-size: 14px;
+  font-family: 'Arial';
+  color: white;
+}
