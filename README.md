@@ -1,6 +1,6 @@
-# TargetPractice_IPM
-IPM Project
-[Click here to try](https://editor.p5js.org/joaoafs/full/ILjhocH87)
+# TargetPractice
+IPM Project<br><br>
+[LINK TO PLAY](https://editor.p5js.org/joaoafs/full/ILjhocH87)
 
 In this project, we aimed to enhance a web page featuring 49 circles, each labeled with the name of an object. Our goal was to create a user-friendly interface that encourages users to click on the circles with the correct names as quickly as possible.
 
